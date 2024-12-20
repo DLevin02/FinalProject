@@ -14,7 +14,7 @@ This project focuses on optimizing the U-Net architecture for 2D brain tumor seg
 
 ---
 
-## **Example Commands**
+## **How To Run**
 
 ### **Running the Notebook in Google Colab**
 1. Upload the notebook (`FinalProject.ipynb`) to Google Colab.
