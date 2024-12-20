@@ -5,12 +5,6 @@
 
 This project focuses on optimizing the U-Net architecture for 2D brain tumor segmentation using advanced techniques like mixed precision training and data pipeline optimizations. These enhancements significantly improve both computational efficiency and segmentation accuracy, enabling real-time clinical deployment. The study achieved:
 
-- **Dice Coefficient**: 0.8969 (previously 0.8531)
-- **IoU (Intersection over Union)**: 0.8151 (previously 0.7472)
-- **Training Time**: Reduced by 55% (9 hours to 4 hours)
-
-The project explores the scalability of these optimizations to 3D segmentation tasks while addressing resource constraints in medical imaging workflows.
-
 ---
 
 ## **Repository Outline**
