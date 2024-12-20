@@ -3,7 +3,7 @@
 
 ## **Description**
 
-This project focuses on optimizing the U-Net architecture for 2D brain tumor segmentation using advanced techniques like mixed precision training and data pipeline optimizations. These enhancements significantly improve both computational efficiency and segmentation accuracy, enabling real-time clinical deployment. The study achieved:
+This project focuses on optimizing the U-Net architecture for 2D brain tumor segmentation using advanced techniques like mixed precision training and data pipeline optimizations. These enhancements significantly improve both computational efficiency and segmentation accuracy, enabling real-time clinical deployment.
 
 ---
 
